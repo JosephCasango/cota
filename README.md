@@ -305,7 +305,7 @@
   <a class="Nacional" href="">
       Agregar
     </a>
-
+<br>
   <p class="dale">
     Pepsi de lata Original 300ml
     </p>
@@ -333,6 +333,7 @@
   <a class="Nacional" href="">
       Agregar
     </a>
+    <br>
     <p class="dale">
     Coca cola de lata Original 300ml
     </p>
