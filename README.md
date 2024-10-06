@@ -323,17 +323,16 @@
   <div class="contento">
 
 
-    <div class="textPrecio">
+  <div class="textPrecio">
       <span>
         $25
       </span>
       <span>Coca cola de lata</span>
     </div>
 
-    <a class="Nacional" href="">
+  <a class="Nacional" href="">
       Agregar
     </a>
-
     <p class="dale">
     Coca cola de lata Original 300ml
     </p>
