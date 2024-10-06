@@ -51,7 +51,7 @@
 .contening {
   overflow: hidden;
   border-radius: 0.5rem;
-  max-width: 210px;
+  max-width: 120px;
   background-color: #fff;
   color: #212121;
 }
