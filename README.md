@@ -295,18 +295,18 @@
   <div class="contento">
 
 
-    <div class="textPrecio">
+  <div class="textPrecio">
       <span>
         $25
       </span>
       <span>Pepsi de lata</span>
     </div>
 
-    <a class="Nacional" href="">
+  <a class="Nacional" href="">
       Agregar
     </a>
 
-    <p class="dale">
+  <p class="dale">
     Pepsi de lata Original 300ml
     </p>
   </div>
