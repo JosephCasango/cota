@@ -292,7 +292,7 @@
 <td>
 
 <div class="contening"><br>
-  <div class="image"><img src="https://i.pinimg.com/564x/73/39/00/733900b902893639c5fa03bf04e852e9.jpg" alt="Girl in a jacket" width="210" height="150"></img></div>
+  <div class="image"><img src="https://i.pinimg.com/564x/73/39/00/733900b902893639c5fa03bf04e852e9.jpg" alt="Girl in a jacket" width="210" height="150"></div>
   <div class="contento">
 
 
@@ -320,7 +320,7 @@
 
 <td>
 <div class="contening"><br>
-  <div class="image"><img src="https://i.pinimg.com/564x/56/1e/12/561e12dae20aca0297ab1873ca1a46c6.jpg" alt="Girl in a jacket" width="210" height="150"></img></div>
+  <div class="image"><img src="https://i.pinimg.com/564x/56/1e/12/561e12dae20aca0297ab1873ca1a46c6.jpg" alt="Girl in a jacket" width="210" height="150"></div>
   <div class="contento">
 
 
