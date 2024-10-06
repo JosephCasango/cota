@@ -65,7 +65,7 @@
 }
 
 .contento {
-  padding: 1rem;
+  padding: 5rem;
   text-align: center;
 }
 
